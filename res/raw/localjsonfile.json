@@ -1,0 +1,14 @@
+[
+  {
+    "name": "first field",
+    "value": "value from first field"
+  },
+  {
+    "name": "second field",
+    "value": "value from second field"
+  },
+  {
+    "name": "third field",
+    "value": "value from third field"
+  }
+]
